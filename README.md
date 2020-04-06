@@ -1,2 +1,2 @@
 # resume
-A html based resume for myself
+A simple resume for myself
